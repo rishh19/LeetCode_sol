@@ -6,8 +6,7 @@ Welcome to my LeetCode solutions repository! This repository automatically track
 
 - **Language:** Python / Java / C++ / JavaScript *(Keep only the ones you use)*
 - **Automation:** LeetSync Browser Extension
-- **Platform:** [LeetCode Profile](https://leetcode.com) *(Replace with your profile link)*
-
+- **Platform:** https://leetcode.com/u/rishh235/
 ## 📁 Repository Structure
 
 The extension automatically categorizes solutions into individual problem folders. Each folder contains:
