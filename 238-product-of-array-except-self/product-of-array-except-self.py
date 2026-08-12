@@ -2,7 +2,7 @@ class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         n=len(nums)
 
-        answer=[0]*n
+        answer=[1]*n
 
         #left product
         left=1
